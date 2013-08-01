@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013-07-02 15:40:33.408.pas,C:\Users\Lijun\Documents\RAD Studio\Projects\Unit4.pas=D:\projects\Code\Trunk\LJ Demo\Main.pas</Transaction>
+    <Transaction>2013-07-02 15:40:33.408.dfm,C:\Users\Lijun\Documents\RAD Studio\Projects\Unit4.dfm=D:\projects\Code\Trunk\LJ Demo\Main.dfm</Transaction>
+    <Transaction>2013-07-02 15:40:43.498.dproj,C:\Users\Lijun\Documents\RAD Studio\Projects\Project3.dproj=D:\projects\Code\Trunk\LJ Demo\Demo.dproj</Transaction>
+    <Transaction>2013-07-02 15:44:07.669.pas,D:\projects\Code\Trunk\LJ Demo\Unit1.pas=D:\projects\Code\Trunk\LJ Demo\Common.pas</Transaction>
+    <Transaction>2013-07-11 15:06:20.700.pas,D:\projects\Code\Trunk\LJ Demo\Unit1.pas=D:\projects\Code\Trunk\LJ Demo\CmdUtils.pas</Transaction>
+  </Transactions>
+</BorlandProject>
